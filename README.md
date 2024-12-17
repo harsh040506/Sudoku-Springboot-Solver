@@ -1,5 +1,4 @@
 # Sudoku Solver Application
-
 This application is a powerful Sudoku solver built using Java JDK 21 and Thymeleaf as the template engine. It allows users to manually input the numbers of a Sudoku puzzle into a web-based interface and instantly provides the solution. The user-friendly interface makes solving Sudoku puzzles seamless and efficient.
 
 ## Features
@@ -16,8 +15,8 @@ This application is a powerful Sudoku solver built using Java JDK 21 and Thymele
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/harsh040506/Sudoku-Springboot-Solver
+   cd Sudoku-Springboot-Solver/Sudoku%20Solver%20Application
    ```
 
 2. **Build the Application**:
@@ -57,6 +56,10 @@ If the application fails to run or solve the puzzle:
 2. Ensure that port `8080` is not in use by another application.
 3. Verify that the entered numbers follow standard Sudoku rules.
 
+## Repository Links
+- [Main Repository](https://github.com/harsh040506/Sudoku-Springboot-Solver)
+- [Sudoku Solver Application Folder](https://github.com/harsh040506/Sudoku-Springboot-Solver/tree/main/Sudoku%20Solver%20Application)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -65,4 +68,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 Happy coding!
----
